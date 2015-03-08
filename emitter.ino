@@ -1,3 +1,11 @@
+/*
+Developed by Luis Diaz - Luis@drmaker.es
+website: http://www.drmaker.es (spanish)
+
+License: CC0 1.0 Universal
+
+*/
+
 #include <VirtualWire.h>
 
 int pinTx = 8,pinPIR= A1;
