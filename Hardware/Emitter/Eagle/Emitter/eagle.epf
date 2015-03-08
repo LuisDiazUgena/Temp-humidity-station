@@ -1,0 +1,42 @@
+[Eagle]
+Version="07 02 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Applications/EAGLE/my-lbr/adafruit.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/DHT11.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/HD44780LCD-2.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/LD1117.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/LilyPad-Wearables.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/lm35.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Aesthetics.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-AnalogIC.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Boards.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Capacitors.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Connectors.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-DigitalIC.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Displays.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Electromechanical.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-LED.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Passives.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-PowerIC.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Resistors.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Retired.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-RF.lbr"
+UsedLibrary="/Applications/EAGLE/my-lbr/SparkFun-Sensors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="213 132 812 531"
+State=2
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name arduino_shields)(type Legacy)(uri "/Users/luisdiazugena/Desktop/github-projects/Temp-humidity-station/Hardware/KiCad Libraries/")(options "")(descr ""))
+  (lib (name dp_devices)(type Legacy)(uri "/Users/luisdiazugena/Desktop/github-projects/Temp-humidity-station/Hardware/KiCad Libraries/")(options "")(descr ""))
+  (lib (name Emitter)(type KiCad)(uri /Users/luisdiazugena/Desktop/github-projects/Temp-humidity-station/Hardware/Emitter)(options "")(descr ""))
+)
