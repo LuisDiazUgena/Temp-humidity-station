@@ -8,7 +8,7 @@ License: CC0 1.0 Universal
 
 #include <VirtualWire.h>
 
-int pinTx = 8,pinPIR= A1;
+int pinTx = 8;
 //char *controller;
 
 int pinTemp = A0;
@@ -25,8 +25,7 @@ void setup() {
   Serial.begin(9600);
 
   pinMode(pinLed, OUTPUT);
-  pinMode(pinPIR, INPUT);
-
+  
   vw_set_ptt_inverted(true); //
   vw_set_tx_pin(pinTx);
   vw_setup(4000);// speed of data transfer Kbps
